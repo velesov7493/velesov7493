@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Vlasov Alexandr Sergeevich
+- 🌱 I’m currently learning in [job4j.ru](https://job4j.ru)
+- 📫 How to reach me: [velesov7493@gmail.com](mailto:velesov7493@gmail.com)
