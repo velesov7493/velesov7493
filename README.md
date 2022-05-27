@@ -64,4 +64,4 @@
 + Stream API
 + Улучшенное Java API в новых JDK
 ----
-+ [Задачи уровня "Стажер"](https://github.com/velesov7493/job4j_tracker)
+[Задачи уровня "Стажер"](https://github.com/velesov7493/job4j_tracker)
