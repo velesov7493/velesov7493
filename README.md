@@ -7,7 +7,7 @@
 + [Spring boot: Сборник REST-сервисов с JWT-авторизацией и валидацией моделей](https://github.com/velesov7493/job4j_rest)
 + [Spring boot webflux: REST-сервис "Погода"](https://github.com/velesov7493/job4j_weather)
 + [Spring webapp: ИС "Учет нарушений ПДД"](https://github.com/velesov7493/job4j_car_accident)
-+ [Spring boot: Форум (heroku)](https://github.com/velesov7493/job4j_forum)
++ [Spring boot: Форум](https://github.com/velesov7493/job4j_forum)
 + [Webapp + hibernate: Доска объявлений о продаже авто](https://github.com/velesov7493/job4j_cars)
 + [Webapp + hibernate: Список задач](https://github.com/velesov7493/job4j_todo)
 + [Webapp: "Биржа вакансий"](https://github.com/velesov7493/job4j_dreamjob)
