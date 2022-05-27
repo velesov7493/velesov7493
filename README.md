@@ -39,7 +39,7 @@
 + Test Driven Development
 + Принципы SOLID: srp, ocp, lsp, isp, dip 
 ----
-[Задачи уровня "Джуниор"](https://github.com/velesov7493/job4j_design)
+[Репозиторий уровня "Джуниор"](https://github.com/velesov7493/job4j_design)
 ## Список пройденных тем на уровне "Стажер" ##
 + Инструменты: JDK, IDEA, Git, Github, Maven, Checkstyle.
 + Типы данных Java
@@ -64,4 +64,4 @@
 + Stream API
 + Улучшенное Java API в новых JDK
 ----
-[Задачи уровня "Стажер"](https://github.com/velesov7493/job4j_tracker)
+[Репозиторий уровня "Стажер"](https://github.com/velesov7493/job4j_tracker)
