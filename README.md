@@ -14,7 +14,7 @@
 + [Webapp: "Кинотеатр"](https://github.com/velesov7493/job4j_cinema)
 + [TCP, Сокеты, Пулы: Пустяковый сервер сообщений](https://github.com/velesov7493/job4j_pooh)
 + [Многопоточность, Пулы потоков](https://github.com/velesov7493/job4j_threads)
-+ [HTML-парсер "Аггрегатор вакансий"](https://github.com/velesov7493/job4j_grabber)
++ [HTML-парсер "Аггрегатор вакансий" (используется планировщик заданий quartz)](https://github.com/velesov7493/job4j_grabber)
 ## Список пройденных тем на уровне Junior ##
 + Maven
 + Итераторы
