@@ -65,3 +65,4 @@
 + Улучшенное Java API в новых JDK
 ----
 [Репозиторий уровня "Стажер"](https://github.com/velesov7493/job4j_tracker)
+[![Основные языки программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=velesov7493&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
